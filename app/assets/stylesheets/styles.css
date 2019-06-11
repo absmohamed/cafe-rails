@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Gothic+A1&display=swap");
+h1 {
+  color: grey;
+  font-family: 'Gothic A1', sans-serif;
+  font-size: 2em;
+}
+
+#container {
+  background: url("../../../../../../../Downloads/background.jpeg") center/cover no-repeat;
+  height: 100%;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+  -ms-grid-rows: .5fr 3fr 4fr 1fr;
+      grid-template-rows: .5fr 3fr 4fr 1fr;
+}
+/*# sourceMappingURL=styles.css.map */
